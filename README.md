@@ -7,6 +7,7 @@ solutions for leet codes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rajeshwari05-V/leet_code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0053-maximum-subarray](https://github.com/Rajeshwari05-V/leet_code/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajeshwari05-V/leet_code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Rajeshwari05-V/leet_code/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Rajeshwari05-V/leet_code/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -29,9 +30,14 @@ solutions for leet codes
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Rajeshwari05-V/leet_code/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajeshwari05-V/leet_code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0905-sort-array-by-parity](https://github.com/Rajeshwari05-V/leet_code/tree/main/0905-sort-array-by-parity/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Rajeshwari05-V/leet_code/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
