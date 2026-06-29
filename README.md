@@ -38,6 +38,7 @@ solutions for leet codes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Rajeshwari05-V/leet_code/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Rajeshwari05-V/leet_code/tree/main/0242-valid-anagram/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Rajeshwari05-V/leet_code/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -48,4 +49,9 @@ solutions for leet codes
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rajeshwari05-V/leet_code/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/Rajeshwari05-V/leet_code/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Rajeshwari05-V/leet_code/tree/main/0242-valid-anagram/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/Rajeshwari05-V/leet_code/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
