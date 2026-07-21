@@ -17,6 +17,7 @@ solutions for leet codes
 | [0347-top-k-frequent-elements](https://github.com/Rajeshwari05-V/leet_code/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Rajeshwari05-V/leet_code/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Rajeshwari05-V/leet_code/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/Rajeshwari05-V/leet_code/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Rajeshwari05-V/leet_code/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -84,4 +85,8 @@ solutions for leet codes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rajeshwari05-V/leet_code/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/Rajeshwari05-V/leet_code/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
