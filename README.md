@@ -32,6 +32,7 @@ solutions for leet codes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rajeshwari05-V/leet_code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/Rajeshwari05-V/leet_code/tree/main/0125-valid-palindrome/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Rajeshwari05-V/leet_code/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -64,6 +65,7 @@ solutions for leet codes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Rajeshwari05-V/leet_code/tree/main/0049-group-anagrams/) | Medium |
+| [0125-valid-palindrome](https://github.com/Rajeshwari05-V/leet_code/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Rajeshwari05-V/leet_code/tree/main/0242-valid-anagram/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
