@@ -16,6 +16,7 @@ solutions for leet codes
 | [0238-product-of-array-except-self](https://github.com/Rajeshwari05-V/leet_code/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Rajeshwari05-V/leet_code/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Rajeshwari05-V/leet_code/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0724-find-pivot-index](https://github.com/Rajeshwari05-V/leet_code/tree/main/0724-find-pivot-index/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Rajeshwari05-V/leet_code/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Rajeshwari05-V/leet_code/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Rajeshwari05-V/leet_code/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -29,6 +30,7 @@ solutions for leet codes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Rajeshwari05-V/leet_code/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0724-find-pivot-index](https://github.com/Rajeshwari05-V/leet_code/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Rajeshwari05-V/leet_code/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
