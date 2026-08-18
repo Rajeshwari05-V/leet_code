@@ -14,6 +14,7 @@ solutions for leet codes
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rajeshwari05-V/leet_code/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/Rajeshwari05-V/leet_code/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Rajeshwari05-V/leet_code/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0283-move-zeroes](https://github.com/Rajeshwari05-V/leet_code/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Rajeshwari05-V/leet_code/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Rajeshwari05-V/leet_code/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Rajeshwari05-V/leet_code/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -33,6 +34,7 @@ solutions for leet codes
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rajeshwari05-V/leet_code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Rajeshwari05-V/leet_code/tree/main/0125-valid-palindrome/) | Easy |
+| [0283-move-zeroes](https://github.com/Rajeshwari05-V/leet_code/tree/main/0283-move-zeroes/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Rajeshwari05-V/leet_code/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
