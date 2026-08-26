@@ -15,6 +15,7 @@ solutions for leet codes
 | [0217-contains-duplicate](https://github.com/Rajeshwari05-V/leet_code/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Rajeshwari05-V/leet_code/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Rajeshwari05-V/leet_code/tree/main/0283-move-zeroes/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/Rajeshwari05-V/leet_code/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Rajeshwari05-V/leet_code/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0724-find-pivot-index](https://github.com/Rajeshwari05-V/leet_code/tree/main/0724-find-pivot-index/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Rajeshwari05-V/leet_code/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -30,6 +31,7 @@ solutions for leet codes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Rajeshwari05-V/leet_code/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/Rajeshwari05-V/leet_code/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0724-find-pivot-index](https://github.com/Rajeshwari05-V/leet_code/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Rajeshwari05-V/leet_code/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Two Pointers
@@ -98,4 +100,8 @@ solutions for leet codes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/Rajeshwari05-V/leet_code/tree/main/1672-richest-customer-wealth/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Rajeshwari05-V/leet_code/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
