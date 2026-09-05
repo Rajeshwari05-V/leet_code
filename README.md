@@ -17,6 +17,7 @@ solutions for leet codes
 | [0283-move-zeroes](https://github.com/Rajeshwari05-V/leet_code/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Rajeshwari05-V/leet_code/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Rajeshwari05-V/leet_code/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0704-binary-search](https://github.com/Rajeshwari05-V/leet_code/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Rajeshwari05-V/leet_code/tree/main/0724-find-pivot-index/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Rajeshwari05-V/leet_code/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Rajeshwari05-V/leet_code/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -110,4 +111,8 @@ solutions for leet codes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rajeshwari05-V/leet_code/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/Rajeshwari05-V/leet_code/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
