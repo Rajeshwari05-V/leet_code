@@ -8,6 +8,7 @@ solutions for leet codes
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rajeshwari05-V/leet_code/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rajeshwari05-V/leet_code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rajeshwari05-V/leet_code/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Rajeshwari05-V/leet_code/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/Rajeshwari05-V/leet_code/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Rajeshwari05-V/leet_code/tree/main/0053-maximum-subarray/) | Medium |
@@ -115,6 +116,7 @@ solutions for leet codes
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rajeshwari05-V/leet_code/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Rajeshwari05-V/leet_code/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/Rajeshwari05-V/leet_code/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
