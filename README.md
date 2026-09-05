@@ -8,6 +8,7 @@ solutions for leet codes
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rajeshwari05-V/leet_code/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rajeshwari05-V/leet_code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0035-search-insert-position](https://github.com/Rajeshwari05-V/leet_code/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/Rajeshwari05-V/leet_code/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Rajeshwari05-V/leet_code/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajeshwari05-V/leet_code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -114,5 +115,6 @@ solutions for leet codes
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Rajeshwari05-V/leet_code/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/Rajeshwari05-V/leet_code/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
