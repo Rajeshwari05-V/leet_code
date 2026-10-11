@@ -8,6 +8,7 @@ solutions for leet codes
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rajeshwari05-V/leet_code/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rajeshwari05-V/leet_code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/Rajeshwari05-V/leet_code/tree/main/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rajeshwari05-V/leet_code/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Rajeshwari05-V/leet_code/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/Rajeshwari05-V/leet_code/tree/main/0049-group-anagrams/) | Medium |
@@ -41,6 +42,7 @@ solutions for leet codes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rajeshwari05-V/leet_code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/Rajeshwari05-V/leet_code/tree/main/0027-remove-element/) | Easy |
 | [0125-valid-palindrome](https://github.com/Rajeshwari05-V/leet_code/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/Rajeshwari05-V/leet_code/tree/main/0283-move-zeroes/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Rajeshwari05-V/leet_code/tree/main/0905-sort-array-by-parity/) | Easy |
