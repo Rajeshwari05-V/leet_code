@@ -13,6 +13,7 @@ solutions for leet codes
 | [0035-search-insert-position](https://github.com/Rajeshwari05-V/leet_code/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/Rajeshwari05-V/leet_code/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Rajeshwari05-V/leet_code/tree/main/0053-maximum-subarray/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Rajeshwari05-V/leet_code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajeshwari05-V/leet_code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rajeshwari05-V/leet_code/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/Rajeshwari05-V/leet_code/tree/main/0217-contains-duplicate/) | Easy |
@@ -43,6 +44,7 @@ solutions for leet codes
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rajeshwari05-V/leet_code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Rajeshwari05-V/leet_code/tree/main/0027-remove-element/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Rajeshwari05-V/leet_code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Rajeshwari05-V/leet_code/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/Rajeshwari05-V/leet_code/tree/main/0283-move-zeroes/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Rajeshwari05-V/leet_code/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -57,6 +59,7 @@ solutions for leet codes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Rajeshwari05-V/leet_code/tree/main/0049-group-anagrams/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Rajeshwari05-V/leet_code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/Rajeshwari05-V/leet_code/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Rajeshwari05-V/leet_code/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Rajeshwari05-V/leet_code/tree/main/0347-top-k-frequent-elements/) | Medium |
