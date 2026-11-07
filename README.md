@@ -47,6 +47,7 @@ solutions for leet codes
 | [0088-merge-sorted-array](https://github.com/Rajeshwari05-V/leet_code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Rajeshwari05-V/leet_code/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/Rajeshwari05-V/leet_code/tree/main/0283-move-zeroes/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Rajeshwari05-V/leet_code/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Rajeshwari05-V/leet_code/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Rajeshwari05-V/leet_code/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Dynamic Programming
@@ -124,4 +125,8 @@ solutions for leet codes
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rajeshwari05-V/leet_code/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Rajeshwari05-V/leet_code/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/Rajeshwari05-V/leet_code/tree/main/0704-binary-search/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Rajeshwari05-V/leet_code/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
