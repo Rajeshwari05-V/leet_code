@@ -46,6 +46,7 @@ solutions for leet codes
 | [0027-remove-element](https://github.com/Rajeshwari05-V/leet_code/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Rajeshwari05-V/leet_code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Rajeshwari05-V/leet_code/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Rajeshwari05-V/leet_code/tree/main/0141-linked-list-cycle/) | Easy |
 | [0283-move-zeroes](https://github.com/Rajeshwari05-V/leet_code/tree/main/0283-move-zeroes/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Rajeshwari05-V/leet_code/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Rajeshwari05-V/leet_code/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -77,6 +78,7 @@ solutions for leet codes
 | [0001-two-sum](https://github.com/Rajeshwari05-V/leet_code/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rajeshwari05-V/leet_code/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/Rajeshwari05-V/leet_code/tree/main/0049-group-anagrams/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Rajeshwari05-V/leet_code/tree/main/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/Rajeshwari05-V/leet_code/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Rajeshwari05-V/leet_code/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Rajeshwari05-V/leet_code/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -128,5 +130,10 @@ solutions for leet codes
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Rajeshwari05-V/leet_code/tree/main/0141-linked-list-cycle/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Rajeshwari05-V/leet_code/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Rajeshwari05-V/leet_code/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
