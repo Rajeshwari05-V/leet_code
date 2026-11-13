@@ -117,6 +117,7 @@ solutions for leet codes
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/Rajeshwari05-V/leet_code/tree/main/0155-min-stack/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Rajeshwari05-V/leet_code/tree/main/0303-range-sum-query-immutable/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -146,6 +147,7 @@ solutions for leet codes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Rajeshwari05-V/leet_code/tree/main/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/Rajeshwari05-V/leet_code/tree/main/0155-min-stack/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
